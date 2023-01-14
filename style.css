@@ -1,0 +1,18 @@
+.body_background {
+    background-image: url(giphyHBD.gif);
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+    border-color: rgb(17, 182, 242);
+}
+
+#Btn
+{
+color: white;
+
+}
